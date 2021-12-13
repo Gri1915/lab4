@@ -1,4 +1,4 @@
-//Copyright by Enigma
+// Copyright by Gri1915
 
 #include <gtest/gtest.h>
 #include "header.hpp"

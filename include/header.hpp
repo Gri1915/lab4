@@ -1,4 +1,4 @@
-//Copyright by Enigma
+// Copyright by Gri1915
 
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
